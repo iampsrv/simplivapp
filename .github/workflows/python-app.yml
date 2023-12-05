@@ -35,5 +35,5 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_PASSWORD }}
-          repository: psrv3/cicdbatch12
+          repository: psrv3/simplivtodoapp
           tag_with_ref: true
